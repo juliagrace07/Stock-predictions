@@ -10,7 +10,7 @@ Visualizes actual vs. predicted stock prices
 Reports Root Mean Squared Error (RMSE) for performance evaluation
 
 -> Dataset
-File: NFLX.csv
+File: stock_data.csv
 
 The dataset must contain at least two columns:
 
